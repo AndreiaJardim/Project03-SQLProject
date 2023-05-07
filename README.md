@@ -22,3 +22,5 @@ To achieve these objectives, the project will involve the following steps:
 3. Collect data on the demand for coding education in Munich and London, including population demographics, salary levels, and unemployment rates;
 3. Analyze the data to perform the business analysis (Jupiter notebooks - Python);
 
+## ERD
+![ERD](https://github.com/AndreiaJardim/Project03-SQLProject/blob/main/ERD.JPG)
