@@ -1,7 +1,7 @@
 # Project03-SQLProject
 
 ## Project Overview:
-You were hired by Ironhack to perform an analytics consulting project to understand Ironhack's competitive landscape with other coding schools and to perform an analytics consulting project to understand the possibility of expanding Ironhack schools to other cities.
+We were hired by Ironhack to perform an analytics consulting project to understand Ironhack's competitive landscape with other coding schools and to perform an analytics consulting project to understand the possibility of expanding Ironhack schools to other cities.
 The project will focus on understanding the market conditions of five cities, namely Barcelona, Madrid, Berlin, Munich, and London, and use this information to determine the potential for Ironhack to expand to London.
 
 
